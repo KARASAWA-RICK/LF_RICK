@@ -22,6 +22,7 @@ export default class MapCtrl extends Component {
   //网格宽度
   @property
   tileWidth: number = 128;
+  
   //网格高度
   @property
   tileHeight: number = 128;
